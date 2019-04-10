@@ -1,5 +1,5 @@
 import {Component, Input} from '@angular/core';
-import {AccountsService} from "../accounts.service";
+import {AccountsService} from "../services/accounts.service";
 
 @Component({
   selector: 'app-account',
